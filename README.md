@@ -1,16 +1,22 @@
-This project explores the behavioral impact and usage patterns of social media across different generations, such as Gen Z, Millennials, Gen X, and Boomers. By combining survey data, statistical techniques, and visualizations, it provides insights into how attention span, cognitive preferences, and emotional responses differ with social media use among age groups.
+# Cross-Generation Analysis of Social Media Behavior
 
-Key features:
+This project explores how social media affects people differently across generations, with a particular focus on behavior, attention span, and cognitive trends. By analyzing collected survey data and visualizing patterns, the project aims to uncover generational distinctions in how social platforms are used and experienced.
 
--Data collection via structured surveys and/or publicly available datasets
 
--Statistical and trend analysis using Python (Pandas, NumPy, Seaborn, etc.)
+## Project Overview
 
--Comparative visualizations of social media impact across age groups
+Social media has become a ubiquitous part of modern life, but its impact isn't uniform across age groups. This study investigates:
 
--Insights into short-form video influence on attention span and engagement
+- How different generations engage with platforms like Instagram, TikTok, Facebook, and YouTube
+- Variations in screen time, content preference, and emotional response
+- The effect of short-form video content on attention span
+- Generational differences in perceived benefits vs. drawbacks of social media
 
--Includes a research-style report summarizing key findings and interpretations
 
-This project aims to provide a foundation for further research or policy discussions around the psychological and societal effects of digital media consumption.
+## Objectives
+
+- Compare behavioral trends among Gen Z, Millennials, Gen X, and Boomers
+- Visualize data to uncover generational usage patterns
+- Interpret findings for potential implications in education, design, and mental health research
+
 
